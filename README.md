@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Mohammed Bilal 👋
 
-<!--
-**mohammedbilal09/mohammedbilal09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Engineer @ Infor  
+💻 Backend & Distributed Systems | AWS | Microservices  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+- Backend Engineer specializing in scalable systems and cloud infrastructure  
+- Reduced AWS costs by **72%** at Infor by optimizing distributed environments  
+- Built real-time systems and secure APIs handling high-volume data  
+- Solved **500+ DSA problems** | 4⭐ CodeChef  
+
+---
+
+## ⚙️ Tech Stack
+- Backend: Java, Node.js, Microservices, REST APIs  
+- Cloud: AWS (EC2, S3), Docker, CI/CD  
+- Databases: PostgreSQL, MongoDB  
+- Systems: Distributed Systems, System Design  
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 Threat Intelligence Platform
+Real-time threat detection system with scalable pipelines and ML models  
+- 92% accuracy | 42% faster detection  
+
+👉 [View Project](https://github.com/mohammedbilal09/Threat-Intelligence-Platform-using-ML-and-Cybersecurity)
+
+---
+
+### 🗳️ E-Vote (Blockchain Voting System)
+Decentralized voting platform using smart contracts  
+- 84% reduction in discrepancies  
+
+👉 [View Project](https://github.com/mohammedbilal09/E-Voting-system)
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://linkedin.com/in/mohammed-bilal-328217230  
+- Email: bilalmohammed91298@gmail.com
